@@ -1,10 +1,8 @@
 # Slime Invaders: 2D Shooter
 - Made with Java and JavaFX
 
-<p align="center>
   ![home_screen](https://github.com/user-attachments/assets/63b8a9b9-100a-4a9f-80a7-060815a8897f)
-  </p>
-
+  
 
 ## How to run:
 - **Make sure to have Java SE 21 or lower versions and JavaFX installed**
