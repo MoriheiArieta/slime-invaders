@@ -32,7 +32,7 @@
 ## How to run and play:
 - **Make sure to have Java SE 21 or lower versions and JavaFX installed**
 
-### Locally IDE:
+### Local IDE:
 - Clone repository or download files
 - Add this line to the VM Args:
 ```
