@@ -3,17 +3,13 @@
 
 
 <p  align="center">
+  Menu Screen
   <img src="https://github.com/user-attachments/assets/63b8a9b9-100a-4a9f-80a7-060815a8897f" width = "240" height = "300">
 </p>
 <p align="center">
-    Menu Screen
-</p>
-<figure align="center">
   <img src="https://github.com/user-attachments/assets/03cde49b-1650-4f95-8142-60903a104c9d" width = "600" height = "300">
-  <figcaption>
-    Blue
-  </figcaption>
-</figure>
+</p>
+
 <figure align="center">
   <img src="https://github.com/user-attachments/assets/41c2dacf-223b-4900-b9fb-efc763a7141a" width = "600" height = "300">
   <figcaption>
