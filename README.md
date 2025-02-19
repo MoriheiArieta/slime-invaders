@@ -1,6 +1,7 @@
 # Slime Invaders: 2D Shooter
 - Made with Java and JavaFX
 
+![home_screen](https://github.com/user-attachments/assets/63b8a9b9-100a-4a9f-80a7-060815a8897f)
 
 
 ## How to run:
@@ -18,8 +19,10 @@
 ### Through runnable .jar file
 - can be downloaded [HERE](https://drive.google.com/file/d/1esINmZQYA-6gaVS8rmJvXtYTfJA9o7Ww/view?usp=sharing)
 - open a terminal then navigate to path where SlimeInvaders.jar file is located
-- enter this line: ** "java --module-path "<JavaFX/lib path>" --add-modules javafx.controls,javafx.graphics,javafx.fxml -jar SlimeInvaders.jar" **
-
+- enter this line:
+```
+"java --module-path "<JavaFX/lib path>" --add-modules javafx.controls,javafx.graphics,javafx.fxml -jar SlimeInvaders.jar"
+```
 
 ### Some Notes:
 - custom fonts doesn't apply on the executable .jar file (haven't fixed this yet)
