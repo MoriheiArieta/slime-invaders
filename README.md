@@ -1,8 +1,11 @@
 # Slime Invaders: 2D Shooter
 - Made with Java and JavaFX
 
-<figure align="center">
+<figure>
+  <p  align="center">
   <img src="https://github.com/user-attachments/assets/63b8a9b9-100a-4a9f-80a7-060815a8897f" width = "240" height = "300">
+    
+  </p>
   <figcaption>
     Menu Screen
   </figcaption>
