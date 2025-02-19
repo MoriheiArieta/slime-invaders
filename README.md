@@ -2,7 +2,7 @@
 - Made with Java and JavaFX
 
 <p align="center>
-  <img src="![home_screen](https://github.com/user-attachments/assets/63b8a9b9-100a-4a9f-80a7-060815a8897f)">
+  ![home_screen](https://github.com/user-attachments/assets/63b8a9b9-100a-4a9f-80a7-060815a8897f)
   </p>
 
 
