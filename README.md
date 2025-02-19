@@ -2,8 +2,10 @@
 - Made with Java and JavaFX
 
 
+  <p align="center">
+    Menu Screen
+  </p> 
 <p  align="center">
-  Menu Screen
   <img src="https://github.com/user-attachments/assets/63b8a9b9-100a-4a9f-80a7-060815a8897f" width = "240" height = "300">
 </p>
 <p align="center">
